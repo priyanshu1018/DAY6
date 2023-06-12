@@ -1,0 +1,15 @@
+ img{
+    width: 100px;
+    height: 70px;
+    border-radius: 100%;
+ }
+ .My{
+    position: fixed;
+    top: 100px;
+    left: 50px;
+ }
+ .naruto{
+   position: fixed;
+   top: 100px;
+   left: 50px;
+ }
